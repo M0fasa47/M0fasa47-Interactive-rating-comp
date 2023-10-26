@@ -18,9 +18,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-using-a-bit-of-flexbox-and-javascript-xiEM52JUO6)](https://your-solution-url.com)
-- Live Site URL: [[Add live site URL here](https://m0fasa47-interactive-rating.netlify.app/)](https://your-live-site-url.com)
-
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-using-a-bit-of-flexbox-and-javascript-xiEM52JUO6)]
+- Live Site URL: [[Add live site URL here](https://m0fasa47-interactive-rating.netlify.app/)]
 ## My process
 
 ### Built with
