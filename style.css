@@ -159,7 +159,7 @@
     text-align: center;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 320px) {
     .main-container {
         width: 300px;
     }
